@@ -1,0 +1,12 @@
+D:\Visual Studio\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Visual Studio\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\Visual Studio\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.main.resources
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.rus.resources
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.settings.resources
+D:\Visual Studio\Launcher\Launcher\obj\Debug\Launcher.eng.resources
